@@ -1,2 +1,3 @@
 # Fun-Projects
-Time pass
+
+These are just some random time pass fun projects
